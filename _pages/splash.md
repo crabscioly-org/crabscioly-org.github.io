@@ -18,14 +18,14 @@ tourna_registration:
 volunteering:
   - title: "In-Person Volunteering"
     excerpt: "Join us at Clarksville Middle School!"
-    btn_label: "Volunteer In-Person (see in-person sections)"
+    btn_label: "Volunteer In-Person"
     btn_class: "btn--info"
     url: "https://www.signupgenius.com/go/10C044CA5A72FA5FCC61-60778799-crabso"
   - title: "Satellite Volunteering"
     excerpt: "Support us remotely!"
-    btn_label: "Volunteer Satellite (see online sections)"
+    btn_label: "Volunteer Satellite"
     btn_class: "btn--info"
-    url: "https://www.signupgenius.com/go/10C044CA5A72FA5FCC61-60778799-crabso"
+    url: "https://www.signupgenius.com/go/10C044CA5A72FA5FCC61-61647944-crabso"
 ---
 
 <div style="text-align: center; margin-bottom: 2em;">
@@ -40,7 +40,7 @@ volunteering:
 {% include feature_row id="tourna_registration" type="center" %}
 
 <div style="text-align: center; margin-top: 2em; margin-bottom: 1em;">
-  <h2>Volunteering Opportunities (open soon!)</h2>
+  <h2>Volunteering Opportunities</h2>
 </div>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 1em;">
