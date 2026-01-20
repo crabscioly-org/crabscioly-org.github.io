@@ -35,7 +35,7 @@ picRowD2:
   - image_path: /assets/images/directors/aadarsh.jpg
     alt: "Aadarsh"
     title: "Aadarsh"
-    excerpt: "Aadarsh is a senior at Mt. Hebron High School in Ellicott City, Maryland. He's been in Science Olympiad for 4 years and does Detector Building, Robot Tour, Fermi Questions, and Electric Vehicle. He finds it very funny when his friends are panicking and making last minute adjustments to their builds because they had no idea what they were doing."
+    excerpt: "Aadarsh is a senior at Mt. Hebron High School in Ellicott City, Maryland. He's been in Science Olympiad for 4 years and does Materials Science, Robot Tour, Fermi Questions, and Electric Vehicle. His favorite Science Olympiad memories include navigating (and getting lost on) college campuses with his friends."
 
 picRowD3:
   - image_path: /assets/images/directors/maya.jpg
