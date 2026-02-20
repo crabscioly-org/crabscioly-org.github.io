@@ -40,7 +40,7 @@ volunteering:
 {% include feature_row id="tourna_registration" type="center" %}
 
 <div style="text-align: center; margin-top: 2em; margin-bottom: 1em;">
-  <h2>Volunteering Opportunities are closed!</h2>
+  <h2>Volunteering Opportunities</h2>
 </div>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 1em;">
