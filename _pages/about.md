@@ -52,8 +52,8 @@ picRowD3:
     excerpt: "Chloe is a sophmore computer science major at University of Maryland, Baltimore County. She has been involved with Science Olympiad for the past 8 years. She specialized in build events (and Game On) as a competitor, and now ESes for build events and assorted inquiry events (sadly no Game On). Her last-minute-build tool of choice remains a hot glue gun to this day, though recent innovations with packing tape are quickly closing the distance... 🤔"
 
 Director_Title:
- - title: "Tournament Directors"
---- 
+  - title: "2025-26 Tournament Directors"
+---
 
 CrabSO is part of Chesapeake Stem Connections, a 501(c)(3) registered Maryland based nonprofit dedicated to supporting up and coming middle school Science Olympiad teams in Maryland. All proceeds from CrabSO are being processed by Chesapeake Stem Connections and will be reinvested back into Chesapeake Stem Connections endeavors such as financially supporting Maryland teams, providing workshops, and funding future in-person competitions.
 

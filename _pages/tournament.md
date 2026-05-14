@@ -11,19 +11,19 @@ header:
 
 venue:
   - title: "Venue"
-    excerpt: 'The 2026 CrabSO Invitational will be held at **Clarksville Middle School**, 6535 South Trotter Road, Clarksville, MD 21029.'
+    excerpt: "The 2026 CrabSO Invitational will be held at **Clarksville Middle School**, 6535 South Trotter Road, Clarksville, MD 21029."
 schedule:
   - title: "Schedule"
-    excerpt: 'Coming Soon!'
+    excerpt: "---"
 rules_changes:
   - title: "Rule Changes"
-    excerpt: 'Coming Soon! Some rules may have been changed due to venue.'
+    excerpt: "---"
 tourn_policies:
   - title: "Tournament Policies"
-    excerpt: 'Coming Soon!'
+    excerpt: "Coming Soon!"
 ec_list:
   - title: "EC List"
-    excerpt: 'Coming Soon!'
+    excerpt: "Coming Soon!"
 ---
 
 {% include feature_row id="venue" type="center" %}

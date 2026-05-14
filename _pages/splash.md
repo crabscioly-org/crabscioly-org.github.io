@@ -29,7 +29,7 @@ volunteering:
 ---
 
 <div style="text-align: center; margin-bottom: 2em;">
-  <h1>Tournament Registration is Open!</h1>
+  <h1>Tournament Registration for 2026 is Closed, Thank You For Coming!</h1>
   <p style="font-size: 1.1em;">
     The <strong>2026 In-person CrabSO Invitational</strong> will be held on <strong>January 24th, 2026</strong> at Clarksville Middle School.
     <br>
@@ -40,7 +40,7 @@ volunteering:
 {% include feature_row id="tourna_registration" type="center" %}
 
 <div style="text-align: center; margin-top: 2em; margin-bottom: 1em;">
-  <h2>Volunteering Opportunities</h2>
+  <h2>Volunteering Opportunities (Closed) </h2>
 </div>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 1em;">
@@ -57,4 +57,3 @@ volunteering:
   <h3 style="margin-bottom: 0.5em;">Event Supervisor Applications</h3>
   <p>Applications are currently <strong>closed</strong>. Thank you for your interest!</p>
 </div>
-
